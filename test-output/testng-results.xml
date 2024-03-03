@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-03T08:37:22Z" name="Suite" finished-at="2024-03-03T08:42:08Z" duration-ms="286213">
+    <groups>
+    </groups>
+    <test started-at="2024-03-03T08:37:22Z" name="Test" finished-at="2024-03-03T08:42:08Z" duration-ms="286213">
+      <class name="testCases.TC_01_DoctorSearch">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:testCases.TC_01_DoctorSearch@1be2019a]" started-at="2024-03-03T14:07:24Z" name="setup" finished-at="2024-03-03T14:07:42Z" duration-ms="18626" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="search()[pri:1, instance:testCases.TC_01_DoctorSearch@1be2019a]" started-at="2024-03-03T14:07:42Z" name="search" finished-at="2024-03-03T14:08:03Z" duration-ms="20953" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search -->
+        <test-method signature="sortD()[pri:2, instance:testCases.TC_01_DoctorSearch@1be2019a]" started-at="2024-03-03T14:08:03Z" name="sortD" finished-at="2024-03-03T14:08:48Z" duration-ms="45097" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sortD -->
+        <test-method signature="GetName()[pri:3, instance:testCases.TC_01_DoctorSearch@1be2019a]" started-at="2024-03-03T14:08:48Z" name="GetName" finished-at="2024-03-03T14:09:00Z" duration-ms="11857" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetName -->
+        <test-method signature="surLst()[pri:4, instance:testCases.TC_01_DoctorSearch@1be2019a]" started-at="2024-03-03T14:09:00Z" name="surLst" finished-at="2024-03-03T14:10:10Z" duration-ms="69640" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- surLst -->
+        <test-method signature="FormValidation()[pri:5, instance:testCases.TC_01_DoctorSearch@1be2019a]" started-at="2024-03-03T14:10:10Z" name="FormValidation" finished-at="2024-03-03T14:12:07Z" duration-ms="117281" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FormValidation -->
+        <test-method is-config="true" signature="closure()[pri:0, instance:testCases.TC_01_DoctorSearch@1be2019a]" started-at="2024-03-03T14:12:07Z" name="closure" finished-at="2024-03-03T14:12:08Z" duration-ms="1330" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closure -->
+      </class> <!-- testCases.TC_01_DoctorSearch -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

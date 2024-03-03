@@ -1,0 +1,654 @@
+12:34:22.134 [main] INFO  - Provide the Filters to sort the doctors in the given location
+12:34:22.376 [main] INFO  - Retrive the Doctor details
+12:34:22.471 [main] INFO  - Goto Surgery --> Retrive the Surgery List
+12:34:22.539 [main] INFO  - Validate Form fields with invalid input
+15:32:03.525 [main] INFO  - Goto Surgery --> Retrive the Surgery List
+15:35:33.008 [main] INFO  - Goto Find Doctors
+15:35:33.020 [main] INFO  - Enter Location and details..
+15:35:33.851 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:35:33.862 [main] DEBUG - Parsing relationship: /_rels/.rels
+15:35:34.807 [main] TRACE - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+15:35:34.818 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+15:35:34.820 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+15:35:34.822 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+15:35:34.824 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+15:35:34.829 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+15:35:34.895 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+15:35:34.899 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+15:35:34.918 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+15:35:34.922 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+15:35:34.928 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+15:35:34.933 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+15:35:34.938 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+15:35:34.944 [main] TRACE - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+15:35:35.115 [main] TRACE - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+15:35:35.118 [main] TRACE - Resolving type for handle themefd26doctype
+15:35:35.392 [main] TRACE - Resolving type for handle stylesheet5d8bdoctype
+15:35:35.412 [main] TRACE - Resolving type for handle ctstylesheet4257type
+15:35:35.429 [main] TRACE - Resolving type for handle ctfonts6623type
+15:35:35.442 [main] TRACE - Resolving type for handle ctfont14d8type
+15:35:35.463 [main] TRACE - Resolving type for handle ctfills2c6ftype
+15:35:35.474 [main] TRACE - Resolving type for handle ctfill550ctype
+15:35:35.483 [main] TRACE - Resolving type for handle ctborders0d66type
+15:35:35.493 [main] TRACE - Resolving type for handle ctborderf935type
+15:35:35.507 [main] TRACE - Resolving type for handle ctcellxfs1322type
+15:35:35.518 [main] TRACE - Resolving type for handle ctxf97f7type
+15:35:35.529 [main] TRACE - Resolving type for handle ctcellstylexfsa81ftype
+15:35:35.536 [main] TRACE - Resolving type for handle ctdxfsb26atype
+15:35:35.545 [main] TRACE - Resolving type for handle cttablestyles872ftype
+15:35:35.557 [main] TRACE - Resolving type for handle sstf81fdoctype
+15:35:35.571 [main] TRACE - Resolving type for handle ctsst44f3type
+15:35:35.612 [main] TRACE - Resolving type for handle ctrsta472type
+15:35:35.692 [main] TRACE - Resolving type for handle workbookec17doctype
+15:35:35.716 [main] TRACE - Resolving type for handle ctworkbook83c3type
+15:35:35.735 [main] TRACE - Resolving type for handle ctsheets49fdtype
+15:35:35.747 [main] TRACE - Resolving type for handle ctsheet4dbetype
+15:35:35.757 [main] TRACE - Resolving type for handle strelationshipid1e94type
+15:35:35.766 [main] TRACE - Resolving type for handle worksheetf539doctype
+15:35:35.783 [main] TRACE - Resolving type for handle ctworksheet530dtype
+15:35:35.811 [main] TRACE - Resolving type for handle ctsheetdata8408type
+15:35:35.822 [main] TRACE - Resolving type for handle ctrowdd39type
+15:35:35.844 [main] TRACE - Resolving type for handle ctcell842btype
+15:35:35.873 [main] TRACE - Resolving type for handle stcellrefe4e0type
+15:35:35.921 [main] TRACE - Resolving type for handle ctcols627ctype
+15:35:35.980 [main] TRACE - Resolving type for handle stcelltypebf95type
+15:35:36.006 [main] TRACE - Resolving type for handle stxstringf179type
+15:35:36.096 [main] INFO  - Provide the Filters to sort the doctors in the given location
+15:35:36.134 [main] INFO  - Retrive the Doctor details
+15:35:36.183 [main] INFO  - Goto Surgery --> Retrive the Surgery List
+15:48:48.840 [main] INFO  - Goto Surgery --> Retrive the Surgery List
+15:53:49.212 [main] INFO  - Goto Surgery --> Retrive the Surgery List
+16:02:51.217 [main] INFO  - Goto Surgery --> Retrive the Surgery List
+16:04:48.683 [main] INFO  - Goto Surgery --> Retrive the Surgery List
+16:12:39.575 [main] INFO  - Goto Surgery --> Retrive the Surgery List
+16:15:29.109 [main] INFO  - Goto Find Doctors
+16:15:29.136 [main] INFO  - Enter Location and details..
+16:15:30.715 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+16:15:30.723 [main] DEBUG - Parsing relationship: /_rels/.rels
+16:15:32.365 [main] TRACE - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+16:15:32.381 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+16:15:32.383 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+16:15:32.384 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+16:15:32.387 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+16:15:32.392 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+16:15:32.452 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+16:15:32.456 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+16:15:32.468 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+16:15:32.471 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+16:15:32.473 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+16:15:32.477 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+16:15:32.479 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+16:15:32.482 [main] TRACE - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+16:15:32.613 [main] TRACE - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+16:15:32.617 [main] TRACE - Resolving type for handle themefd26doctype
+16:15:32.928 [main] TRACE - Resolving type for handle stylesheet5d8bdoctype
+16:15:32.940 [main] TRACE - Resolving type for handle ctstylesheet4257type
+16:15:32.964 [main] TRACE - Resolving type for handle ctfonts6623type
+16:15:32.979 [main] TRACE - Resolving type for handle ctfont14d8type
+16:15:33.000 [main] TRACE - Resolving type for handle ctfills2c6ftype
+16:15:33.009 [main] TRACE - Resolving type for handle ctfill550ctype
+16:15:33.026 [main] TRACE - Resolving type for handle ctborders0d66type
+16:15:33.037 [main] TRACE - Resolving type for handle ctborderf935type
+16:15:33.048 [main] TRACE - Resolving type for handle ctcellxfs1322type
+16:15:33.064 [main] TRACE - Resolving type for handle ctxf97f7type
+16:15:33.075 [main] TRACE - Resolving type for handle ctcellstylexfsa81ftype
+16:15:33.081 [main] TRACE - Resolving type for handle ctdxfsb26atype
+16:15:33.090 [main] TRACE - Resolving type for handle cttablestyles872ftype
+16:15:33.115 [main] TRACE - Resolving type for handle sstf81fdoctype
+16:15:33.125 [main] TRACE - Resolving type for handle ctsst44f3type
+16:15:33.189 [main] TRACE - Resolving type for handle ctrsta472type
+16:15:33.295 [main] TRACE - Resolving type for handle workbookec17doctype
+16:15:33.307 [main] TRACE - Resolving type for handle ctworkbook83c3type
+16:15:33.334 [main] TRACE - Resolving type for handle ctsheets49fdtype
+16:15:33.343 [main] TRACE - Resolving type for handle ctsheet4dbetype
+16:15:33.352 [main] TRACE - Resolving type for handle strelationshipid1e94type
+16:15:33.362 [main] TRACE - Resolving type for handle worksheetf539doctype
+16:15:33.373 [main] TRACE - Resolving type for handle ctworksheet530dtype
+16:15:33.402 [main] TRACE - Resolving type for handle ctsheetdata8408type
+16:15:33.411 [main] TRACE - Resolving type for handle ctrowdd39type
+16:15:33.447 [main] TRACE - Resolving type for handle ctcell842btype
+16:15:33.503 [main] TRACE - Resolving type for handle stcellrefe4e0type
+16:15:33.544 [main] TRACE - Resolving type for handle ctcols627ctype
+16:15:33.600 [main] TRACE - Resolving type for handle stcelltypebf95type
+16:15:33.618 [main] TRACE - Resolving type for handle stxstringf179type
+16:17:10.596 [main] INFO  - Provide the Filters to sort the doctors in the given location
+16:18:30.634 [main] INFO  - Retrive the Doctor details
+16:18:31.027 [main] INFO  - Goto Surgery --> Retrive the Surgery List
+16:18:31.097 [main] INFO  - Validate Form fields with invalid input
+16:40:27.953 [main] INFO  - Goto Find Doctors
+16:40:27.995 [main] INFO  - Enter Location and details..
+16:40:28.790 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+16:40:28.800 [main] DEBUG - Parsing relationship: /_rels/.rels
+16:40:29.715 [main] TRACE - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+16:40:29.729 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+16:40:29.731 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+16:40:29.733 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+16:40:29.735 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+16:40:29.739 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+16:40:29.791 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+16:40:29.794 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+16:40:29.806 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+16:40:29.809 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+16:40:29.814 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+16:40:29.817 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+16:40:29.819 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+16:40:29.822 [main] TRACE - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+16:40:29.938 [main] TRACE - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+16:40:29.940 [main] TRACE - Resolving type for handle themefd26doctype
+16:40:30.158 [main] TRACE - Resolving type for handle stylesheet5d8bdoctype
+16:40:30.174 [main] TRACE - Resolving type for handle ctstylesheet4257type
+16:40:30.192 [main] TRACE - Resolving type for handle ctfonts6623type
+16:40:30.203 [main] TRACE - Resolving type for handle ctfont14d8type
+16:40:30.225 [main] TRACE - Resolving type for handle ctfills2c6ftype
+16:40:30.234 [main] TRACE - Resolving type for handle ctfill550ctype
+16:40:30.243 [main] TRACE - Resolving type for handle ctborders0d66type
+16:40:30.252 [main] TRACE - Resolving type for handle ctborderf935type
+16:40:30.265 [main] TRACE - Resolving type for handle ctcellxfs1322type
+16:40:30.275 [main] TRACE - Resolving type for handle ctxf97f7type
+16:40:30.288 [main] TRACE - Resolving type for handle ctcellstylexfsa81ftype
+16:40:30.295 [main] TRACE - Resolving type for handle ctdxfsb26atype
+16:40:30.304 [main] TRACE - Resolving type for handle cttablestyles872ftype
+16:40:30.316 [main] TRACE - Resolving type for handle sstf81fdoctype
+16:40:30.327 [main] TRACE - Resolving type for handle ctsst44f3type
+16:40:30.366 [main] TRACE - Resolving type for handle ctrsta472type
+16:40:30.432 [main] TRACE - Resolving type for handle workbookec17doctype
+16:40:30.443 [main] TRACE - Resolving type for handle ctworkbook83c3type
+16:40:30.461 [main] TRACE - Resolving type for handle ctsheets49fdtype
+16:40:30.470 [main] TRACE - Resolving type for handle ctsheet4dbetype
+16:40:30.477 [main] TRACE - Resolving type for handle strelationshipid1e94type
+16:40:30.489 [main] TRACE - Resolving type for handle worksheetf539doctype
+16:40:30.500 [main] TRACE - Resolving type for handle ctworksheet530dtype
+16:40:30.529 [main] TRACE - Resolving type for handle ctsheetdata8408type
+16:40:30.539 [main] TRACE - Resolving type for handle ctrowdd39type
+16:40:30.561 [main] TRACE - Resolving type for handle ctcell842btype
+16:40:30.587 [main] TRACE - Resolving type for handle stcellrefe4e0type
+16:40:30.614 [main] TRACE - Resolving type for handle ctcols627ctype
+16:40:30.656 [main] TRACE - Resolving type for handle stcelltypebf95type
+16:40:30.672 [main] TRACE - Resolving type for handle stxstringf179type
+16:41:13.599 [main] INFO  - Provide the Filters to sort the doctors in the given location
+16:41:13.633 [main] INFO  - Retrive the Doctor details
+16:41:13.676 [main] INFO  - Goto Surgery --> Retrive the Surgery List
+16:41:13.726 [main] INFO  - Validate Form fields with invalid input
+23:07:49.442 [main] INFO  - Goto Find Doctors
+23:07:49.464 [main] INFO  - Enter Location and details..
+23:07:50.065 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:07:50.073 [main] DEBUG - Parsing relationship: /_rels/.rels
+23:07:50.742 [main] TRACE - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+23:07:50.752 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+23:07:50.755 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+23:07:50.757 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+23:07:50.759 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+23:07:50.763 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+23:07:50.816 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+23:07:50.818 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+23:07:50.840 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+23:07:50.845 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+23:07:50.894 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+23:07:50.897 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+23:07:50.902 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+23:07:50.904 [main] TRACE - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+23:07:51.008 [main] TRACE - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+23:07:51.011 [main] TRACE - Resolving type for handle themefd26doctype
+23:07:51.211 [main] TRACE - Resolving type for handle stylesheet5d8bdoctype
+23:07:51.223 [main] TRACE - Resolving type for handle ctstylesheet4257type
+23:07:51.246 [main] TRACE - Resolving type for handle ctfonts6623type
+23:07:51.257 [main] TRACE - Resolving type for handle ctfont14d8type
+23:07:51.276 [main] TRACE - Resolving type for handle ctfills2c6ftype
+23:07:51.285 [main] TRACE - Resolving type for handle ctfill550ctype
+23:07:51.292 [main] TRACE - Resolving type for handle ctborders0d66type
+23:07:51.304 [main] TRACE - Resolving type for handle ctborderf935type
+23:07:51.316 [main] TRACE - Resolving type for handle ctcellxfs1322type
+23:07:51.328 [main] TRACE - Resolving type for handle ctxf97f7type
+23:07:51.338 [main] TRACE - Resolving type for handle ctcellstylexfsa81ftype
+23:07:51.346 [main] TRACE - Resolving type for handle ctdxfsb26atype
+23:07:51.355 [main] TRACE - Resolving type for handle cttablestyles872ftype
+23:07:51.366 [main] TRACE - Resolving type for handle sstf81fdoctype
+23:07:51.376 [main] TRACE - Resolving type for handle ctsst44f3type
+23:07:51.415 [main] TRACE - Resolving type for handle ctrsta472type
+23:07:51.478 [main] TRACE - Resolving type for handle workbookec17doctype
+23:07:51.492 [main] TRACE - Resolving type for handle ctworkbook83c3type
+23:07:51.510 [main] TRACE - Resolving type for handle ctsheets49fdtype
+23:07:51.518 [main] TRACE - Resolving type for handle ctsheet4dbetype
+23:07:51.525 [main] TRACE - Resolving type for handle strelationshipid1e94type
+23:07:51.543 [main] TRACE - Resolving type for handle worksheetf539doctype
+23:07:51.553 [main] TRACE - Resolving type for handle ctworksheet530dtype
+23:07:51.588 [main] TRACE - Resolving type for handle ctsheetdata8408type
+23:07:51.597 [main] TRACE - Resolving type for handle ctrowdd39type
+23:07:51.616 [main] TRACE - Resolving type for handle ctcell842btype
+23:07:51.646 [main] TRACE - Resolving type for handle stcellrefe4e0type
+23:07:51.682 [main] TRACE - Resolving type for handle ctcols627ctype
+23:07:51.742 [main] TRACE - Resolving type for handle stcelltypebf95type
+23:07:51.768 [main] TRACE - Resolving type for handle stxstringf179type
+23:08:12.720 [main] INFO  - Provide the Filters to sort the doctors in the given location
+23:08:59.628 [main] INFO  - Retrive the Doctor details
+23:09:08.901 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:09:08.907 [main] DEBUG - Parsing relationship: /_rels/.rels
+23:09:09.064 [main] TRACE - Resolving type for handle ctnumfmtsb58btype
+23:09:09.325 [main] TRACE - Resolving type for handle stcellstylexfid70c7type
+23:09:09.346 [main] TRACE - Resolving type for handle ctsheetdimensiond310type
+23:09:09.352 [main] TRACE - Resolving type for handle stref90a2type
+23:09:09.376 [main] TRACE - Resolving type for handle propertiesee84doctype
+23:09:09.385 [main] TRACE - Resolving type for handle ctproperties3f10type
+23:09:09.411 [main] TRACE - Resolving type for handle properties288cdoctype
+23:09:09.415 [main] TRACE - Resolving type for handle ctproperties2c18type
+23:09:09.478 [main] DEBUG - Save content types part
+23:09:09.831 [main] DEBUG - Save package relationships
+23:09:09.876 [main] DEBUG - Save part 'docProps/app.xml'
+23:09:09.877 [main] DEBUG - Save part 'docProps/core.xml'
+23:09:09.887 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+23:09:09.889 [main] DEBUG - Save part 'xl/styles.xml'
+23:09:09.890 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+23:09:09.892 [main] DEBUG - Save part 'xl/workbook.xml'
+23:09:09.898 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+23:09:09.899 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+23:09:09.900 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+23:09:12.929 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:09:12.930 [main] DEBUG - Parsing relationship: /_rels/.rels
+23:09:12.979 [main] DEBUG - Save content types part
+23:09:12.982 [main] DEBUG - Save package relationships
+23:09:12.984 [main] DEBUG - Save part 'docProps/app.xml'
+23:09:12.985 [main] DEBUG - Save part 'docProps/core.xml'
+23:09:12.987 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+23:09:12.988 [main] DEBUG - Save part 'xl/styles.xml'
+23:09:12.988 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+23:09:12.990 [main] DEBUG - Save part 'xl/workbook.xml'
+23:09:12.992 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+23:09:12.993 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+23:09:12.993 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+23:09:12.999 [main] INFO  - Goto Surgery --> Retrive the Surgery List
+23:10:24.237 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+23:10:24.243 [main] DEBUG - Parsing relationship: /_rels/.rels
+23:10:24.372 [main] DEBUG - Save content types part
+23:10:24.381 [main] DEBUG - Save package relationships
+23:10:24.385 [main] DEBUG - Save part 'docProps/app.xml'
+23:10:24.385 [main] DEBUG - Save part 'docProps/core.xml'
+23:10:24.387 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+23:10:24.388 [main] DEBUG - Save part 'xl/styles.xml'
+23:10:24.388 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+23:10:24.389 [main] DEBUG - Save part 'xl/workbook.xml'
+23:10:24.393 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+23:10:24.394 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+23:10:24.394 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+23:10:24.421 [main] INFO  - Validate Form fields with invalid input
+23:10:45.218 [main] INFO  - validate form Details with valid input
+12:50:01.324 [main] INFO  - Goto Find Doctors
+12:50:01.341 [main] INFO  - Enter Location and details..
+12:50:01.854 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:50:01.865 [main] DEBUG - Parsing relationship: /_rels/.rels
+12:50:02.606 [main] TRACE - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+12:50:02.618 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+12:50:02.620 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+12:50:02.623 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+12:50:02.626 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+12:50:02.630 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+12:50:02.685 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+12:50:02.688 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+12:50:02.700 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+12:50:02.705 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+12:50:02.708 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+12:50:02.711 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+12:50:02.714 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+12:50:02.717 [main] TRACE - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+12:50:02.847 [main] TRACE - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+12:50:02.850 [main] TRACE - Resolving type for handle themefd26doctype
+12:50:03.117 [main] TRACE - Resolving type for handle stylesheet5d8bdoctype
+12:50:03.134 [main] TRACE - Resolving type for handle ctstylesheet4257type
+12:50:03.156 [main] TRACE - Resolving type for handle ctfonts6623type
+12:50:03.171 [main] TRACE - Resolving type for handle ctfont14d8type
+12:50:03.190 [main] TRACE - Resolving type for handle ctfills2c6ftype
+12:50:03.200 [main] TRACE - Resolving type for handle ctfill550ctype
+12:50:03.208 [main] TRACE - Resolving type for handle ctborders0d66type
+12:50:03.222 [main] TRACE - Resolving type for handle ctborderf935type
+12:50:03.235 [main] TRACE - Resolving type for handle ctcellxfs1322type
+12:50:03.249 [main] TRACE - Resolving type for handle ctxf97f7type
+12:50:03.262 [main] TRACE - Resolving type for handle ctcellstylexfsa81ftype
+12:50:03.273 [main] TRACE - Resolving type for handle ctdxfsb26atype
+12:50:03.283 [main] TRACE - Resolving type for handle cttablestyles872ftype
+12:50:03.298 [main] TRACE - Resolving type for handle sstf81fdoctype
+12:50:03.310 [main] TRACE - Resolving type for handle ctsst44f3type
+12:50:03.351 [main] TRACE - Resolving type for handle ctrsta472type
+12:50:03.422 [main] TRACE - Resolving type for handle workbookec17doctype
+12:50:03.436 [main] TRACE - Resolving type for handle ctworkbook83c3type
+12:50:03.460 [main] TRACE - Resolving type for handle ctsheets49fdtype
+12:50:03.470 [main] TRACE - Resolving type for handle ctsheet4dbetype
+12:50:03.481 [main] TRACE - Resolving type for handle strelationshipid1e94type
+12:50:03.494 [main] TRACE - Resolving type for handle worksheetf539doctype
+12:50:03.508 [main] TRACE - Resolving type for handle ctworksheet530dtype
+12:50:03.535 [main] TRACE - Resolving type for handle ctsheetdata8408type
+12:50:03.545 [main] TRACE - Resolving type for handle ctrowdd39type
+12:50:03.566 [main] TRACE - Resolving type for handle ctcell842btype
+12:50:03.597 [main] TRACE - Resolving type for handle stcellrefe4e0type
+12:50:03.628 [main] TRACE - Resolving type for handle ctcols627ctype
+12:50:03.674 [main] TRACE - Resolving type for handle stcelltypebf95type
+12:50:03.698 [main] TRACE - Resolving type for handle stxstringf179type
+12:50:25.295 [main] INFO  - Provide the Filters to sort the doctors in the given location
+12:50:30.901 [main] INFO  - Retrive the Doctor details
+12:50:39.432 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:50:39.437 [main] DEBUG - Parsing relationship: /_rels/.rels
+12:50:39.480 [main] TRACE - Resolving type for handle ctnumfmtsb58btype
+12:50:39.714 [main] TRACE - Resolving type for handle stcellstylexfid70c7type
+12:50:39.749 [main] TRACE - Resolving type for handle ctsheetdimensiond310type
+12:50:39.760 [main] TRACE - Resolving type for handle stref90a2type
+12:50:39.794 [main] TRACE - Resolving type for handle propertiesee84doctype
+12:50:39.803 [main] TRACE - Resolving type for handle ctproperties3f10type
+12:50:39.849 [main] TRACE - Resolving type for handle properties288cdoctype
+12:50:39.856 [main] TRACE - Resolving type for handle ctproperties2c18type
+12:50:39.917 [main] DEBUG - Save content types part
+12:50:40.265 [main] DEBUG - Save package relationships
+12:50:40.282 [main] DEBUG - Save part 'docProps/app.xml'
+12:50:40.285 [main] DEBUG - Save part 'docProps/core.xml'
+12:50:40.298 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+12:50:40.300 [main] DEBUG - Save part 'xl/styles.xml'
+12:50:40.302 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+12:50:40.304 [main] DEBUG - Save part 'xl/workbook.xml'
+12:50:40.312 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+12:50:40.313 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+12:50:40.315 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+12:50:43.361 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:50:43.365 [main] DEBUG - Parsing relationship: /_rels/.rels
+12:50:43.507 [main] DEBUG - Save content types part
+12:50:43.514 [main] DEBUG - Save package relationships
+12:50:43.519 [main] DEBUG - Save part 'docProps/app.xml'
+12:50:43.521 [main] DEBUG - Save part 'docProps/core.xml'
+12:50:43.527 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+12:50:43.528 [main] DEBUG - Save part 'xl/styles.xml'
+12:50:43.529 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+12:50:43.530 [main] DEBUG - Save part 'xl/workbook.xml'
+12:50:43.536 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+12:50:43.537 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+12:50:43.539 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+12:50:43.548 [main] INFO  - Goto Surgery --> Retrive the Surgery List
+12:50:50.155 [main] INFO  - Validate Form fields with invalid input
+12:58:19.006 [main] INFO  - Goto Find Doctors
+12:58:19.027 [main] INFO  - Enter Location and details..
+12:58:20.017 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:58:20.031 [main] DEBUG - Parsing relationship: /_rels/.rels
+12:58:21.131 [main] TRACE - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+12:58:21.141 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+12:58:21.143 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+12:58:21.145 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+12:58:21.148 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+12:58:21.154 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+12:58:21.212 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+12:58:21.217 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+12:58:21.228 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+12:58:21.233 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+12:58:21.237 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+12:58:21.241 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+12:58:21.246 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+12:58:21.251 [main] TRACE - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+12:58:21.396 [main] TRACE - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+12:58:21.399 [main] TRACE - Resolving type for handle themefd26doctype
+12:58:21.651 [main] TRACE - Resolving type for handle stylesheet5d8bdoctype
+12:58:21.667 [main] TRACE - Resolving type for handle ctstylesheet4257type
+12:58:21.689 [main] TRACE - Resolving type for handle ctfonts6623type
+12:58:21.703 [main] TRACE - Resolving type for handle ctfont14d8type
+12:58:21.727 [main] TRACE - Resolving type for handle ctfills2c6ftype
+12:58:21.738 [main] TRACE - Resolving type for handle ctfill550ctype
+12:58:21.746 [main] TRACE - Resolving type for handle ctborders0d66type
+12:58:21.757 [main] TRACE - Resolving type for handle ctborderf935type
+12:58:21.769 [main] TRACE - Resolving type for handle ctcellxfs1322type
+12:58:21.780 [main] TRACE - Resolving type for handle ctxf97f7type
+12:58:21.791 [main] TRACE - Resolving type for handle ctcellstylexfsa81ftype
+12:58:21.799 [main] TRACE - Resolving type for handle ctdxfsb26atype
+12:58:21.809 [main] TRACE - Resolving type for handle cttablestyles872ftype
+12:58:21.823 [main] TRACE - Resolving type for handle sstf81fdoctype
+12:58:21.836 [main] TRACE - Resolving type for handle ctsst44f3type
+12:58:21.885 [main] TRACE - Resolving type for handle ctrsta472type
+12:58:21.952 [main] TRACE - Resolving type for handle workbookec17doctype
+12:58:21.965 [main] TRACE - Resolving type for handle ctworkbook83c3type
+12:58:21.983 [main] TRACE - Resolving type for handle ctsheets49fdtype
+12:58:21.992 [main] TRACE - Resolving type for handle ctsheet4dbetype
+12:58:22.001 [main] TRACE - Resolving type for handle strelationshipid1e94type
+12:58:22.012 [main] TRACE - Resolving type for handle worksheetf539doctype
+12:58:22.025 [main] TRACE - Resolving type for handle ctworksheet530dtype
+12:58:22.051 [main] TRACE - Resolving type for handle ctsheetdata8408type
+12:58:22.062 [main] TRACE - Resolving type for handle ctrowdd39type
+12:58:22.084 [main] TRACE - Resolving type for handle ctcell842btype
+12:58:22.116 [main] TRACE - Resolving type for handle stcellrefe4e0type
+12:58:22.150 [main] TRACE - Resolving type for handle ctcols627ctype
+12:58:22.197 [main] TRACE - Resolving type for handle stcelltypebf95type
+12:58:22.219 [main] TRACE - Resolving type for handle stxstringf179type
+12:58:43.476 [main] INFO  - Provide the Filters to sort the doctors in the given location
+12:58:49.152 [main] INFO  - Retrive the Doctor details
+12:58:57.785 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:58:57.790 [main] DEBUG - Parsing relationship: /_rels/.rels
+12:58:57.819 [main] TRACE - Resolving type for handle ctnumfmtsb58btype
+12:58:57.995 [main] TRACE - Resolving type for handle stcellstylexfid70c7type
+12:58:58.019 [main] TRACE - Resolving type for handle ctsheetdimensiond310type
+12:58:58.029 [main] TRACE - Resolving type for handle stref90a2type
+12:58:58.058 [main] TRACE - Resolving type for handle propertiesee84doctype
+12:58:58.067 [main] TRACE - Resolving type for handle ctproperties3f10type
+12:58:58.099 [main] TRACE - Resolving type for handle properties288cdoctype
+12:58:58.107 [main] TRACE - Resolving type for handle ctproperties2c18type
+12:58:58.160 [main] DEBUG - Save content types part
+12:58:58.470 [main] DEBUG - Save package relationships
+12:58:58.486 [main] DEBUG - Save part 'docProps/app.xml'
+12:58:58.488 [main] DEBUG - Save part 'docProps/core.xml'
+12:58:58.498 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+12:58:58.500 [main] DEBUG - Save part 'xl/styles.xml'
+12:58:58.501 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+12:58:58.503 [main] DEBUG - Save part 'xl/workbook.xml'
+12:58:58.510 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+12:58:58.512 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+12:58:58.514 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+12:59:01.541 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:59:01.545 [main] DEBUG - Parsing relationship: /_rels/.rels
+12:59:01.651 [main] DEBUG - Save content types part
+12:59:01.656 [main] DEBUG - Save package relationships
+12:59:01.660 [main] DEBUG - Save part 'docProps/app.xml'
+12:59:01.661 [main] DEBUG - Save part 'docProps/core.xml'
+12:59:01.666 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+12:59:01.667 [main] DEBUG - Save part 'xl/styles.xml'
+12:59:01.668 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+12:59:01.670 [main] DEBUG - Save part 'xl/workbook.xml'
+12:59:01.675 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+12:59:01.676 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+12:59:01.676 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+12:59:01.685 [main] INFO  - Goto Surgery --> Retrive the Surgery List
+12:59:08.508 [main] INFO  - Validate Form fields with invalid input
+13:29:36.109 [main] INFO  - Goto Find Doctors
+13:29:36.117 [main] INFO  - Enter Location and details..
+13:29:36.512 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:29:36.517 [main] DEBUG - Parsing relationship: /_rels/.rels
+13:29:37.120 [main] TRACE - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+13:29:37.127 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+13:29:37.129 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+13:29:37.130 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+13:29:37.132 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+13:29:37.135 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+13:29:37.172 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+13:29:37.174 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+13:29:37.180 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+13:29:37.183 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+13:29:37.184 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+13:29:37.186 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+13:29:37.188 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+13:29:37.189 [main] TRACE - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+13:29:37.258 [main] TRACE - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+13:29:37.260 [main] TRACE - Resolving type for handle themefd26doctype
+13:29:37.392 [main] TRACE - Resolving type for handle stylesheet5d8bdoctype
+13:29:37.399 [main] TRACE - Resolving type for handle ctstylesheet4257type
+13:29:37.410 [main] TRACE - Resolving type for handle ctfonts6623type
+13:29:37.420 [main] TRACE - Resolving type for handle ctfont14d8type
+13:29:37.430 [main] TRACE - Resolving type for handle ctfills2c6ftype
+13:29:37.435 [main] TRACE - Resolving type for handle ctfill550ctype
+13:29:37.441 [main] TRACE - Resolving type for handle ctborders0d66type
+13:29:37.447 [main] TRACE - Resolving type for handle ctborderf935type
+13:29:37.457 [main] TRACE - Resolving type for handle ctcellxfs1322type
+13:29:37.463 [main] TRACE - Resolving type for handle ctxf97f7type
+13:29:37.470 [main] TRACE - Resolving type for handle ctcellstylexfsa81ftype
+13:29:37.474 [main] TRACE - Resolving type for handle ctdxfsb26atype
+13:29:37.478 [main] TRACE - Resolving type for handle cttablestyles872ftype
+13:29:37.485 [main] TRACE - Resolving type for handle sstf81fdoctype
+13:29:37.494 [main] TRACE - Resolving type for handle ctsst44f3type
+13:29:37.521 [main] TRACE - Resolving type for handle ctrsta472type
+13:29:37.559 [main] TRACE - Resolving type for handle workbookec17doctype
+13:29:37.569 [main] TRACE - Resolving type for handle ctworkbook83c3type
+13:29:37.582 [main] TRACE - Resolving type for handle ctsheets49fdtype
+13:29:37.588 [main] TRACE - Resolving type for handle ctsheet4dbetype
+13:29:37.594 [main] TRACE - Resolving type for handle strelationshipid1e94type
+13:29:37.601 [main] TRACE - Resolving type for handle worksheetf539doctype
+13:29:37.609 [main] TRACE - Resolving type for handle ctworksheet530dtype
+13:29:37.624 [main] TRACE - Resolving type for handle ctsheetdata8408type
+13:29:37.630 [main] TRACE - Resolving type for handle ctrowdd39type
+13:29:37.643 [main] TRACE - Resolving type for handle ctcell842btype
+13:29:37.660 [main] TRACE - Resolving type for handle stcellrefe4e0type
+13:29:37.680 [main] TRACE - Resolving type for handle ctcols627ctype
+13:29:37.708 [main] TRACE - Resolving type for handle stcelltypebf95type
+13:29:37.720 [main] TRACE - Resolving type for handle stxstringf179type
+13:29:54.388 [main] INFO  - Provide the Filters to sort the doctors in the given location
+13:29:59.892 [main] INFO  - Retrive the Doctor details
+13:30:08.212 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:30:08.214 [main] DEBUG - Parsing relationship: /_rels/.rels
+13:30:08.239 [main] TRACE - Resolving type for handle ctnumfmtsb58btype
+13:30:08.361 [main] TRACE - Resolving type for handle stcellstylexfid70c7type
+13:30:08.374 [main] TRACE - Resolving type for handle ctsheetdimensiond310type
+13:30:08.379 [main] TRACE - Resolving type for handle stref90a2type
+13:30:08.398 [main] TRACE - Resolving type for handle propertiesee84doctype
+13:30:08.403 [main] TRACE - Resolving type for handle ctproperties3f10type
+13:30:08.423 [main] TRACE - Resolving type for handle properties288cdoctype
+13:30:08.428 [main] TRACE - Resolving type for handle ctproperties2c18type
+13:30:08.460 [main] DEBUG - Save content types part
+13:30:08.672 [main] DEBUG - Save package relationships
+13:30:08.682 [main] DEBUG - Save part 'docProps/app.xml'
+13:30:08.684 [main] DEBUG - Save part 'docProps/core.xml'
+13:30:08.691 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+13:30:08.691 [main] DEBUG - Save part 'xl/styles.xml'
+13:30:08.692 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+13:30:08.694 [main] DEBUG - Save part 'xl/workbook.xml'
+13:30:08.698 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+13:30:08.699 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+13:30:08.701 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+13:30:11.722 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:30:11.726 [main] DEBUG - Parsing relationship: /_rels/.rels
+13:30:11.781 [main] DEBUG - Save content types part
+13:30:11.784 [main] DEBUG - Save package relationships
+13:30:11.786 [main] DEBUG - Save part 'docProps/app.xml'
+13:30:11.787 [main] DEBUG - Save part 'docProps/core.xml'
+13:30:11.790 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+13:30:11.791 [main] DEBUG - Save part 'xl/styles.xml'
+13:30:11.792 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+13:30:11.793 [main] DEBUG - Save part 'xl/workbook.xml'
+13:30:11.796 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+13:30:11.797 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+13:30:11.797 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+13:30:11.804 [main] INFO  - Goto Surgery --> Retrive the Surgery List
+13:30:16.346 [main] INFO  - Validate Form fields with invalid input
+13:38:47.501 [main] INFO  - Goto Find Doctors
+13:38:47.511 [main] INFO  - Enter Location and details..
+13:38:47.880 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:38:47.885 [main] DEBUG - Parsing relationship: /_rels/.rels
+13:38:48.329 [main] TRACE - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+13:38:48.337 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+13:38:48.338 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+13:38:48.340 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+13:38:48.341 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+13:38:48.343 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+13:38:48.383 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+13:38:48.385 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+13:38:48.391 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+13:38:48.393 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+13:38:48.395 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+13:38:48.405 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+13:38:48.407 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+13:38:48.408 [main] TRACE - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+13:38:48.506 [main] TRACE - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+13:38:48.508 [main] TRACE - Resolving type for handle themefd26doctype
+13:38:48.661 [main] TRACE - Resolving type for handle stylesheet5d8bdoctype
+13:38:48.671 [main] TRACE - Resolving type for handle ctstylesheet4257type
+13:38:48.686 [main] TRACE - Resolving type for handle ctfonts6623type
+13:38:48.695 [main] TRACE - Resolving type for handle ctfont14d8type
+13:38:48.709 [main] TRACE - Resolving type for handle ctfills2c6ftype
+13:38:48.715 [main] TRACE - Resolving type for handle ctfill550ctype
+13:38:48.721 [main] TRACE - Resolving type for handle ctborders0d66type
+13:38:48.728 [main] TRACE - Resolving type for handle ctborderf935type
+13:38:48.737 [main] TRACE - Resolving type for handle ctcellxfs1322type
+13:38:48.743 [main] TRACE - Resolving type for handle ctxf97f7type
+13:38:48.749 [main] TRACE - Resolving type for handle ctcellstylexfsa81ftype
+13:38:48.754 [main] TRACE - Resolving type for handle ctdxfsb26atype
+13:38:48.759 [main] TRACE - Resolving type for handle cttablestyles872ftype
+13:38:48.768 [main] TRACE - Resolving type for handle sstf81fdoctype
+13:38:48.773 [main] TRACE - Resolving type for handle ctsst44f3type
+13:38:48.788 [main] TRACE - Resolving type for handle ctrsta472type
+13:38:48.815 [main] TRACE - Resolving type for handle workbookec17doctype
+13:38:48.821 [main] TRACE - Resolving type for handle ctworkbook83c3type
+13:38:48.835 [main] TRACE - Resolving type for handle ctsheets49fdtype
+13:38:48.840 [main] TRACE - Resolving type for handle ctsheet4dbetype
+13:38:48.847 [main] TRACE - Resolving type for handle strelationshipid1e94type
+13:38:48.852 [main] TRACE - Resolving type for handle worksheetf539doctype
+13:38:48.859 [main] TRACE - Resolving type for handle ctworksheet530dtype
+13:38:48.875 [main] TRACE - Resolving type for handle ctsheetdata8408type
+13:38:48.881 [main] TRACE - Resolving type for handle ctrowdd39type
+13:38:48.894 [main] TRACE - Resolving type for handle ctcell842btype
+13:38:48.912 [main] TRACE - Resolving type for handle stcellrefe4e0type
+13:38:48.928 [main] TRACE - Resolving type for handle ctcols627ctype
+13:38:48.957 [main] TRACE - Resolving type for handle stcelltypebf95type
+13:38:48.966 [main] TRACE - Resolving type for handle stxstringf179type
+13:39:05.212 [main] INFO  - Provide the Filters to sort the doctors in the given location
+13:39:10.638 [main] INFO  - Retrive the Doctor details
+13:39:18.988 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:39:18.990 [main] DEBUG - Parsing relationship: /_rels/.rels
+13:39:19.006 [main] TRACE - Resolving type for handle ctnumfmtsb58btype
+13:39:19.114 [main] TRACE - Resolving type for handle stcellstylexfid70c7type
+13:39:19.129 [main] TRACE - Resolving type for handle ctsheetdimensiond310type
+13:39:19.135 [main] TRACE - Resolving type for handle stref90a2type
+13:39:19.149 [main] TRACE - Resolving type for handle propertiesee84doctype
+13:39:19.154 [main] TRACE - Resolving type for handle ctproperties3f10type
+13:39:19.172 [main] TRACE - Resolving type for handle properties288cdoctype
+13:39:19.175 [main] TRACE - Resolving type for handle ctproperties2c18type
+13:39:19.199 [main] DEBUG - Save content types part
+13:39:19.351 [main] DEBUG - Save package relationships
+13:39:19.361 [main] DEBUG - Save part 'docProps/app.xml'
+13:39:19.361 [main] DEBUG - Save part 'docProps/core.xml'
+13:39:19.366 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+13:39:19.367 [main] DEBUG - Save part 'xl/styles.xml'
+13:39:19.367 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+13:39:19.368 [main] DEBUG - Save part 'xl/workbook.xml'
+13:39:19.372 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+13:39:19.373 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+13:39:19.373 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+13:39:22.390 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+13:39:22.392 [main] DEBUG - Parsing relationship: /_rels/.rels
+13:39:22.453 [main] DEBUG - Save content types part
+13:39:22.457 [main] DEBUG - Save package relationships
+13:39:22.460 [main] DEBUG - Save part 'docProps/app.xml'
+13:39:22.460 [main] DEBUG - Save part 'docProps/core.xml'
+13:39:22.464 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+13:39:22.465 [main] DEBUG - Save part 'xl/styles.xml'
+13:39:22.465 [main] DEBUG - Save part 'xl/theme/theme1.xml'
+13:39:22.467 [main] DEBUG - Save part 'xl/workbook.xml'
+13:39:22.471 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+13:39:22.472 [main] DEBUG - Save part 'xl/worksheets/sheet2.xml'
+13:39:22.473 [main] DEBUG - Save part 'xl/worksheets/sheet3.xml'
+13:39:22.492 [main] INFO  - Goto Surgery --> Retrive the Surgery List
+13:39:27.015 [main] INFO  - Validate Form fields with invalid input
+14:07:42.682 [main] INFO  - Goto Find Doctors
+14:07:42.691 [main] INFO  - Enter Location and details..
+14:07:43.130 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:07:43.137 [main] DEBUG - Parsing relationship: /_rels/.rels
+14:07:43.983 [main] TRACE - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+14:07:43.991 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+14:07:43.993 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+14:07:43.994 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+14:07:43.995 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+14:07:43.997 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+14:07:44.032 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+14:07:44.034 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+14:07:44.043 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+14:07:44.045 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+14:07:44.047 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+14:07:44.050 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+14:07:44.052 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+14:07:44.054 [main] TRACE - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+14:07:44.174 [main] TRACE - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+14:07:44.177 [main] TRACE - Resolving type for handle themefd26doctype
+14:07:44.346 [main] TRACE - Resolving type for handle stylesheet5d8bdoctype
+14:07:44.357 [main] TRACE - Resolving type for handle ctstylesheet4257type
+14:07:44.372 [main] TRACE - Resolving type for handle ctfonts6623type
+14:07:44.382 [main] TRACE - Resolving type for handle ctfont14d8type
+14:07:44.400 [main] TRACE - Resolving type for handle ctfills2c6ftype
+14:07:44.406 [main] TRACE - Resolving type for handle ctfill550ctype
+14:07:44.415 [main] TRACE - Resolving type for handle ctborders0d66type
+14:07:44.423 [main] TRACE - Resolving type for handle ctborderf935type
+14:07:44.434 [main] TRACE - Resolving type for handle ctcellxfs1322type
